@@ -1,0 +1,7 @@
+{
+    "Country": true,
+    "City": true,
+    "State": true,
+    "Dashboard": true,
+    "Section": true
+}
